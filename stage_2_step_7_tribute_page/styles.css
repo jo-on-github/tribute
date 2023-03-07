@@ -1,0 +1,119 @@
+
+    .lighter {
+      font-weight: lighter;
+    }
+
+    .normal {
+      font-weight: normal;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .bolder {
+      font-weight: bolder;
+    }
+
+
+  #tribute-info {
+    text-align: left;
+    font-family: Righteous; sans-serif;
+    background-color: lightblue;
+  }
+
+ #title {
+    font-size: 86px;
+    font-family: Righteous, sans-serif;
+    text-align: center;
+    }
+
+  #image {
+    max-width: 100%;
+    display: block; 
+    margin: auto;
+   border-radius: 8px;
+  }
+
+  #headline {
+    font-size: 18
+  px;
+    font-family: Righteous, sans-serif;
+    text-align: center;
+  }
+
+    #intro {
+    font-size: 18px;
+    font-family: Righteous, sans-serif;
+    text-align: center;
+
+    }
+
+  #tagline {
+    font-size: 24px;
+    font-family: Righteous, sans-serif;
+    text-align: center;
+
+  }
+
+   #byline {
+    font-size: 16px;
+    font-family: Righteous, sans-serif;
+    background-color: darkseagreen;
+  color: white;
+  text-align: center;
+    border: 2px solid black;
+    margin: 20px;
+  padding: 20px;
+  }
+
+#facts {
+    font-size: 18px;
+    font-family: Righteous, sans-serif;
+     text-align: center;
+       background-color: darkseagreen;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid white;
+  border-radius: 8px;
+
+  }
+
+
+#img-caption {
+    font-size: 12px;
+    font-family: Righteous, sans-serif;
+  }
+
+  #findout {
+    font-size: 18px;
+    font-family: Righteous, sans-serif;
+    background-color: pink;
+     color: white;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+  }
+
+.introtext {
+  font-size: 18px;
+  background-color: darkseagreen;
+  font-family: Righteous, sans-serif;
+  color: black;
+    text-align: center;
+  border: 2px solid white;
+  margin: 20px;
+  padding: 20px;
+}
+
+ #tribute-link {
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+
+  }
+
+
