@@ -1,2 +1,0 @@
-# tribute
-Tribute page 
